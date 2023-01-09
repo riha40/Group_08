@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="firstText">Arturs Baskov</string>
+    <string name="secondText">Ralfs Kārlis Lapers</string>
+    <string name="thirdText">Rihards Niklāvs Buks</string>
+    <string name="f">And developed by Arturs Baskov</string>
+</resources>
