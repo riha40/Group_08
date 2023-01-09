@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="text">This is the first application from Group 8:</string>
+    <string name="Student_1">Rihards Niklāvs Buks</string>
+    <string name="Student_2">Artūrs Baskovs</string>
+    <string name="Student_3">Ralfs Kārlis Lapers</string>
+    <string name="final_text">And the application was developed by Rihards Niklāvs Buks</string>
+</resources>
